@@ -1,0 +1,43 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.badge{
+   color: #6A983C;
+   background-color: #F4F8EC;
+}
+
+.apply{
+    background-color: #6A983C;
+}
+
+.star{
+    color: gold;
+    font-size: 23px;
+}
+
+.jarak{
+    line-height: 30px;
+}
+
+::selection{
+  color: #fff;
+  background: #17A2B8;
+}
+.wrapper{
+  width: 400px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px 25px 40px;
+  box-shadow: 0 12px 35px rgba(0,0,0,0.1);
+}
+header h2{
+  font-size: 24px;
+  font-weight: 600;
+}
+header p{
+  margin-top: 5px;
+  font-size: 16px;
+}
+
+
